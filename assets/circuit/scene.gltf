@@ -1,0 +1,303 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16880,
+      "max": [
+        15512.869140625,
+        10368.5673828125,
+        0.0
+      ],
+      "min": [
+        -17010.23046875,
+        -10388.140625,
+        -3319.570556640625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 202560,
+      "componentType": 5126,
+      "count": 16880,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16880,
+      "max": [
+        0.9993231296539307,
+        0.9915294051170349
+      ],
+      "min": [
+        0.0045035164803266525,
+        4.427420208230615e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 135040,
+      "componentType": 5126,
+      "count": 16880,
+      "max": [
+        0.9993231296539307,
+        0.9915294051170349
+      ],
+      "min": [
+        0.0045035164803266525,
+        4.427420208230615e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 270080,
+      "componentType": 5126,
+      "count": 16880,
+      "max": [
+        0.9993231296539307,
+        0.9915294051170349
+      ],
+      "min": [
+        0.0045035164803266525,
+        4.427420208230615e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 48987,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "abdullahnasir31 (https://sketchfab.com/abdullahnasir31)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/solar-circuit-board-f245110b1bd84c50b8583d0e330438ff",
+      "title": "Solar Circuit Board"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 195948,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 405120,
+      "byteOffset": 195948,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 405120,
+      "byteOffset": 601068,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1006188,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Circuit_board_1_baseColor.png"
+    },
+    {
+      "uri": "textures/Circuit_board_1_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Circuit_board_1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Solar Circuit Board_Circuit board 1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        -0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "f7d30be74f1e43fb91d3e2e0df7d77b4.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -12.142692565917969,
+        -27.9947509765625,
+        0.3988189697265625,
+        1.0
+      ],
+      "name": "Battery Inner"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.0041589997708797125,
+        4.656617565469719e-10,
+        2.328308782734861e-10,
+        0.0,
+        4.65661736995312e-10,
+        -0.004158999770879706,
+        3.492463963761839e-10,
+        0.0,
+        2.328309173768018e-10,
+        -3.4924637030730956e-10,
+        -0.0041589997708797255,
+        0.0,
+        33.87107467651367,
+        12.18682861328125,
+        79.13179016113281,
+        1.0
+      ],
+      "name": "Solar Circuit Board"
+    },
+    {
+      "mesh": 0,
+      "name": "Solar Circuit Board_Circuit board 1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
